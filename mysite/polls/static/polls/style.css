@@ -1,0 +1,15 @@
+li a {
+    color: #008000;
+}
+
+html, body{
+	height: 100%;
+	min-height: 100%; /*for firefox*/
+}
+
+body{
+	background-color: #DEDEDE;
+    background-image: url('images/background.jpeg');
+    background-position: right bottom; /*Positioning*/
+    background-repeat: no-repeat; /*Prevent showing multiple background images*/
+}
